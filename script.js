@@ -10,7 +10,7 @@ let count=0;
 for (var i = 0; i < n.length; i++) {
   if(n.length-i<sub.length)break;
 
-  if(sub==n.substring(i,i+sub.length))//fkshdjkfhdks
+  if(sub==n.substring(i,i+sub.length))//fkshdjkjkdhkjsdhkj
   {
     ++count;
     if(count%2==0)
